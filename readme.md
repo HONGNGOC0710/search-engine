@@ -7,4 +7,4 @@
   yarn start
 
 - To view web UI paste it into browser:
-  http://localhost:3000
+  http://localhost:3000/index.html
